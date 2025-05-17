@@ -66,20 +66,24 @@ Estou em constante evolução profissional e atualmente estudo <strong>Banco de 
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    alt="GitHub Stats"
-    height="200"
-    style="display: inline-block; margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Alex-Majdalani&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=Alex Majdalani&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Languages" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Majdalani&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    style="display: inline-block;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Majdalani&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 
